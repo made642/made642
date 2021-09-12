@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @made642
 - 👀 I’m interested in anything that's made me happy or caught my attention.
 - 🌱 I’m currently learning Japanese Language and Game Development Course
-- 💞️ I’m looking to collaborate on creating a new game app and guiding me in the whole process. I am still learning.
+- 💞️ I’m looking to collaborate on creating a new game app. I am looking for a tutor to guide me in the whole process. I am still learning. Please be more patient.
 - 📫 How to reach me contact me in any of social platform. I prefer in Messager or Insta.
 
 <!---
